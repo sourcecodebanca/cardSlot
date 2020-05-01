@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>thantai_bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1560,720}</string>
+                <key>spriteSourceSize</key>
+                <string>{1560,720}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1560,720}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>slots_thantai_bgs.png</string>
+            <key>size</key>
+            <string>{1562,722}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3113023eab2de987f412fc739edd0b89:0780ab19a3a66e2ad0a80f6a1e7b82ac:ca48e3995cdc70e30aaa44b4516ac565$</string>
+            <key>textureFileName</key>
+            <string>slots_thantai_bgs.png</string>
+        </dict>
+    </dict>
+</plist>

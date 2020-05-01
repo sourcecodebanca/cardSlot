@@ -1,0 +1,138 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X/10
+  rotate: true
+  xy: 405, 357
+  size: 153, 79
+  orig: 153, 79
+  offset: 0, 0
+  index: -1
+X/4
+  rotate: true
+  xy: 405, 235
+  size: 120, 79
+  orig: 120, 79
+  offset: 0, 0
+  index: -1
+X/5 
+  rotate: true
+  xy: 405, 115
+  size: 118, 79
+  orig: 118, 79
+  offset: 0, 0
+  index: -1
+X/Layer 19
+  rotate: false
+  xy: 405, 38
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+gold frog/2
+  rotate: true
+  xy: 405, 5
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+gold frog/3
+  rotate: false
+  xy: 442, 2
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+gold frog/4
+  rotate: true
+  xy: 473, 10
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+gold frog/5
+  rotate: false
+  xy: 486, 477
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+gold frog/6
+  rotate: false
+  xy: 486, 445
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+gold frog/gold frog copy
+  rotate: false
+  xy: 2, 4
+  size: 401, 506
+  orig: 401, 506
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X/3
+  rotate: false
+  xy: 374, 347
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+X/6 copy
+  rotate: false
+  xy: 2, 2
+  size: 118, 79
+  orig: 118, 79
+  offset: 0, 0
+  index: -1
+X/7 copy
+  rotate: false
+  xy: 374, 428
+  size: 118, 79
+  orig: 118, 79
+  offset: 0, 0
+  index: -1
+X/8 copy
+  rotate: false
+  xy: 122, 2
+  size: 118, 79
+  orig: 118, 79
+  offset: 0, 0
+  index: -1
+X/9 
+  rotate: false
+  xy: 242, 2
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+X/x2
+  rotate: false
+  xy: 374, 266
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 2, 83
+  size: 370, 424
+  orig: 370, 424
+  offset: 0, 0
+  index: -1
+gold frog/1
+  rotate: false
+  xy: 374, 206
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1

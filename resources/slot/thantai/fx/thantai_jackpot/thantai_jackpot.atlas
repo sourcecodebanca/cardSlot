@@ -1,0 +1,208 @@
+
+thantai_jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Start/C copy
+  rotate: true
+  xy: 730, 2
+  size: 72, 157
+  orig: 72, 157
+  offset: 0, 0
+  index: -1
+Start/T copy
+  rotate: false
+  xy: 889, 14
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Start/bg
+  rotate: false
+  xy: 730, 76
+  size: 248, 323
+  orig: 248, 323
+  offset: 0, 0
+  index: -1
+fx1/10
+  rotate: false
+  xy: 498, 401
+  size: 494, 212
+  orig: 494, 212
+  offset: 0, 0
+  index: -1
+fx1/11
+  rotate: false
+  xy: 2, 585
+  size: 494, 214
+  orig: 494, 214
+  offset: 0, 0
+  index: -1
+fx2/3b
+  rotate: false
+  xy: 2, 363
+  size: 466, 220
+  orig: 466, 220
+  offset: 0, 0
+  index: -1
+fx2/4b
+  rotate: false
+  xy: 2, 801
+  size: 496, 220
+  orig: 496, 220
+  offset: 0, 0
+  index: -1
+fx2/5b
+  rotate: false
+  xy: 500, 807
+  size: 496, 214
+  orig: 496, 214
+  offset: 0, 0
+  index: -1
+fx2/6b
+  rotate: false
+  xy: 500, 615
+  size: 496, 190
+  orig: 496, 190
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 35
+  size: 362, 326
+  orig: 362, 326
+  offset: 0, 0
+  index: -1
+light copy
+  rotate: false
+  xy: 366, 35
+  size: 362, 326
+  orig: 362, 326
+  offset: 0, 0
+  index: -1
+
+thantai_jackpot2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Start/A copy
+  rotate: false
+  xy: 892, 508
+  size: 76, 140
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+Start/J copy
+  rotate: false
+  xy: 892, 242
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+Start/K copy
+  rotate: false
+  xy: 892, 804
+  size: 76, 156
+  orig: 76, 156
+  offset: 0, 0
+  index: -1
+Start/O copy
+  rotate: false
+  xy: 892, 366
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+Start/P copy
+  rotate: false
+  xy: 892, 650
+  size: 67, 152
+  orig: 67, 152
+  offset: 0, 0
+  index: -1
+fx1/1
+  rotate: false
+  xy: 2, 802
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/2
+  rotate: false
+  xy: 2, 642
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/3
+  rotate: false
+  xy: 447, 802
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/4
+  rotate: false
+  xy: 2, 482
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/5
+  rotate: false
+  xy: 447, 642
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/6
+  rotate: false
+  xy: 2, 322
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/7
+  rotate: false
+  xy: 447, 482
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/8
+  rotate: false
+  xy: 2, 162
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx1/9
+  rotate: false
+  xy: 447, 322
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx2/1b
+  rotate: false
+  xy: 2, 2
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+fx2/2b
+  rotate: false
+  xy: 447, 162
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 447, 2
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,643 @@
+{
+  "Config": {
+    "settings_btn": {
+      "pX": 0.959,
+      "pY": -0.3
+    },
+    "back_btn": {
+      "pX": 0.041,
+      "pY": -0.3
+    },
+    "back_btn_2": {
+      "pX": 0.13,
+      "pY": 0.8
+    },
+    "settings_amthanh_btn": {
+      "pX": 0.5,
+      "pY": 0.67,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt"
+    },
+    "settings_nhacnen_btn": {
+      "pX": 0.5,
+      "pY": 0.49,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt"
+    },
+    "settings_bang_vinh_danh": {
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "settings_lsgd": {
+      "pX": 0.5,
+      "pY": 0.31,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt"
+    },
+    "settings_lsh": {
+      "pX": 0.5,
+      "pY": 0.13,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt"
+    },
+    "settings_btn_close": {
+      "pX": 0.9,
+      "pY": 0.74
+    },
+    "bangthuong_btn": {
+      "pX": 0.055,
+      "pY": 0.5,
+      "pos": 1
+    },
+    "bangthuong_bg": {
+      "pX": 0.5,
+      "pY": 0.44,
+      "pages": 1
+    },
+    "bangthuong_btn_close": {
+      "pX": 0.95,
+      "pY": 0.83
+    },
+    "quay_btn": {
+      "pX": 0.92,
+      "pY": 0.5
+    },
+    "tu_quay_btn": {
+      "pX": 0.695,
+      "pY": 0.5
+    },
+    "sieu_toc_btn": {
+      "pX": 0.755,
+      "pY": 0.33
+    },
+    "slot_machine": {
+      "showHeader": 0,
+      "showJackpot": 0,
+      "showLinesOnTop": 0,
+      "slotType": 1,
+      "lineChooserType": 1,
+      "lineFont": "resources/slot/thuycung/fonts/thuycung_font_line.fnt",
+      "lineOffset": 35,
+      "lineStyle": 1,
+      "pX": 0.5,
+      "pY": 0.49,
+      "scale": 0.8,
+      "sizeX": 882,
+      "sizeY": 475,
+      "row": 3,
+      "col": 5,
+      "timeToShowLines": 0.7,
+      "timeToShowResults": 3.5,
+      "timeToShowPerLines": 2.5,
+      "velocity": 1500,
+      "lineNumbScale": 0.8,
+      "symbolsCount": 7,
+      "commonSymbols": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "symbols_fx_1": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "symbols_fx_2": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "symbols_fx_3": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "lineTexturesCount": 1,
+      "lineNumbTexturesCount": 2,
+      "zoneFxPosX": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "zoneFxPosY": [
+        -130,
+        -130,
+        -130,
+        -130
+      ],
+      "zoneBtnsCount": 4,
+      "zone0pX": 0.14,
+      "zone0pY": 0.44,
+      "zone1pX": 0.38,
+      "zone1pY": 0.44,
+      "zone2pX": 0.62,
+      "zone2pY": 0.44,
+      "zone3pX": 0.86,
+      "zone3pY": 0.44,
+      "bgTopCount": 4,
+      "zoneBgCount": 3,
+      "zoneBgMusicCount": 1,
+      "miniGameType": 4,
+      "miniGameItemsCount": 1,
+      "miniGameItemsPosX": [
+        -80,
+        -240,
+        -400,
+        80,
+        240,
+        400,
+        -80,
+        -240,
+        -400,
+        80,
+        240,
+        400,
+        -80,
+        -240,
+        -400,
+        80,
+        240,
+        400
+      ],
+      "miniGameItemsPosY": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.45,
+        0.45,
+        0.45,
+        0.45,
+        0.45,
+        0.45,
+        0.25,
+        0.25,
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "spinTimes": [
+        0.6,
+        1.2,
+        1.8,
+        2.2,
+        2.6
+      ],
+      "superSpeedSpinTimes": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "zone_bet_lb": {
+      "pX": 0.57,
+      "pY": 0.123,
+      "font": "resources/slot/thuycung/fonts/thuycung_font_tienvang_to.fnt",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "scale": 1.0
+    },
+    "zone_jackpot_lb": {
+      "pX": 0,
+      "pY": -100,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "scale": 0.6
+    },
+    "jackpot_fx": {
+      "type": 2,
+      "name_fx": "thuycung_jackpot",
+      "effect_pX": 0.5,
+      "effect_pY": 0.35,
+      "finish_zOrder": 2,
+      "finish_pX": 0.5,
+      "finish_pY": 0.57,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/thuycung/fonts/thuycung_font_tienvang_to.fnt",
+      "money_bg_pY": 0.16,
+      "money_lb_scale": 1.0,
+      "money_lb_pX": 0.52,
+      "money_lb_pY": 0.61,
+      "particle_pX": -590,
+      "particle_pY": 0,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 0.8,
+      "free_spin_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "free_spin_lb_pX": 0.65,
+      "free_spin_lb_pY": 0.62,
+      "free_spin_lb_scale": 1.2,
+      "free_spin_count_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "free_spin_count_lb_pX": -50,
+      "free_spin_count_lb_pY": 0.52,
+      "free_spin_count_lb_scale": 1.17
+    },
+    "win_fx": {
+      "type": 2,
+      "name_fx": "thuycung_bigwin",
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "finish_zOrder": 1,
+      "finish_pX": 0.5,
+      "finish_pY": 0.6,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/thuycung/fonts/thuycung_font_tienvang_to.fnt",
+      "money_bg_pY": -0.5,
+      "money_lb_scale": 0.9,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -640,
+      "particle_pY": 50,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 0.8,
+      "free_spin_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "free_spin_lb_pX": 0.65,
+      "free_spin_lb_pY": 0.62,
+      "free_spin_lb_scale": 1.2,
+      "free_spin_count_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "free_spin_count_lb_pX": -50,
+      "free_spin_count_lb_pY": 0.52,
+      "free_spin_count_lb_scale": 1.17
+    },
+    "free_spin_fx": {
+      "type": 2,
+      "name_fx": "thuycung_freespin",
+      "effect_pX": 0.5,
+      "effect_pY": 0.3,
+      "text": "Lượt",
+      "finish_zOrder": 1,
+      "finish_pX": 0.5,
+      "finish_pY": 0.57,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/thuycung/fonts/thuycung_font_tienvang_to.fnt",
+      "money_bg_pY": -0.3,
+      "money_lb_scale": 1.2,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -640,
+      "particle_pY": 50,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 0.8,
+      "free_spin_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "free_spin_lb_pX": 0.65,
+      "free_spin_lb_pY": 0.62,
+      "free_spin_lb_scale": 1.2,
+      "free_spin_count_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "free_spin_count_lb_pX": -50,
+      "free_spin_count_lb_pY": 0.52,
+      "free_spin_count_lb_scale": 1.17
+    },
+    "line_btn": {
+      "pX": 0.28,
+      "pY": 0.33
+    },
+    "line_lb": {
+      "pX": 0.5,
+      "pY": 0.81,
+      "scale": 0.85,
+      "text": "",
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt"
+    },
+    "number_of_lines_lb": {
+      "pX": 0.5,
+      "pY": 0.46,
+      "pX_2": 0,
+      "pY_2": -4,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "scale": 0.7
+    },
+    "minigame_start_btn": {
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "bet_btn": {
+      "pX": 0.16,
+      "pY": 0.33
+    },
+    "bet_lb": {
+      "pX": 0.5,
+      "pY": 0.81,
+      "scale": 0.85,
+      "text": "",
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt"
+    },
+    "current_bet_lb": {
+      "pX": 0.5,
+      "pY": 0.46,
+      "pX_2": 0,
+      "pY_2": -200,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "scale": 0.8
+    },
+    "jackpot_bg": {
+      "pX": 0.18,
+      "pY": 0.5,
+      "icon_pX": 0.285,
+      "icon_pY": 0.55,
+      "lb_pX": 0.55,
+      "lb_pY": 0.79,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "scale": 0.95,
+      "type_fx": 0,
+      "particle_pX": -150,
+      "particle_pY": -265,
+      "fx_scale": 0.8
+    },
+    "this_player_bg": {
+      "pX": 0.82,
+      "pY": 0.5,
+      "style": 1,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "lb_pX": 0.42,
+      "lb_pY": 0.79,
+      "scale": 0.95
+    },
+    "thong_tin_bg": {
+      "pX": 0.5,
+      "pY": 0.48
+    },
+    "vua_thang_lb": {
+      "pX": 0.05,
+      "pY": 0.78,
+      "scale": 0.85,
+      "anchorX": 0,
+      "anchorY": 0.5,
+      "text": "",
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt"
+    },
+    "vua_thang_numb_lb": {
+      "pX": 0.5,
+      "pY": 0.56,
+      "scale": 1.0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt"
+    },
+    "tong_gold_lb": {
+      "pX": 0.05,
+      "pY": 0.33,
+      "scale": 0.85,
+      "anchorX": 0,
+      "anchorY": 0.5,
+      "text": "",
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt"
+    },
+    "tong_gold_numb_lb": {
+      "pos": 2,
+      "pX": 0.5,
+      "pY": 0.46,
+      "pX_2": 0,
+      "pY_2": -4,
+      "scale": 0.7,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt"
+    },
+    "free_spins_bg": {
+      "pos": 1,
+      "pX": 0.5,
+      "pY": 1.02,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt",
+      "font2": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text": "",
+      "free_spins_lb_pX": 0.5,
+      "free_spins_lb_pY": 0.5,
+      "current_free_spins_lb_pX": 0.715,
+      "current_free_spins_lb_pY": 0.75
+    },
+    "play_trial_bg": {
+      "pX": 0.15,
+      "pY": 1.02
+    },
+    "multi_rate": {
+      "pX": 0,
+      "pY": 0.07,
+      "pos": 2,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt",
+      "lb_pX": 0.5,
+      "lb_pY": 0.5,
+      "text": "Hệ Số: "
+    },
+    "minigame_gold_count": {
+      "pos": 2,
+      "pX": -400,
+      "pY": 0.8,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text": "Vàng: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.52
+    },
+    "remaining_time_count": {
+      "pos": 2,
+      "pX": 330,
+      "pY": 0.805,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt",
+      "text": "Lượt Còn Lại: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.52
+    },
+    "minigame_btn_close": {
+      "pX": 0.9,
+      "pY": 0.93
+    },
+    "minigame_fx": {
+      "type": 2,
+      "name_fx": "thuycung_bonus",
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "minigame_reward": {
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "scale": 0.8,
+      "pX": 0.5,
+      "pY": 0.79,
+      "moveY": -70
+    },
+    "minigame_item_idle_fx": {
+      "name_fx": "fx/light",
+      "pX": -320,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "minigame_item_open_fx": {
+      "name_fx": "fx/open",
+      "pX": -300,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "minigame_text_1": {
+      "pX": 0.5,
+      "pY": 0.74,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text": "Bạn đã trúng thưởng chơi game Tìm Báu Vật.\nHệ số nhân khởi điểm là ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.4
+    },
+    "minigame_text_2": {
+      "pX": 0.5,
+      "pY": 0.3,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text": "Nếu bạn không chơi, hệ thống sẽ tự động\nthực hiện chơi giúp bạn sau 15s",
+      "bg_pX": 0.5,
+      "bg_pY": 0.4
+    },
+    "minigame_countdown_1": {
+      "pos": 2,
+      "pX": 0.3,
+      "pY": 0.89,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text": "Tự động chơi sau: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.3
+    },
+    "minigame_countdown_2": {
+      "pos": 2,
+      "pX": 0.5,
+      "pY": 0.96,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text": "Tự động sau: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.52
+    },
+    "minigame_treasure_open": {
+      "pX": 0.5,
+      "pY": 0.5,
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt",
+      "text": "Chúc mừng bạn đã giành được hòm vàng.\nChọn 1 trong 5 hòm để khám phá nhé.",
+      "lb_pX": 0.5,
+      "lb_pY": 0.8,
+      "treasure_posX": [
+        -150,
+        -300,
+        0,
+        300,
+        150
+      ],
+      "treasure_posY": [
+        0.27,
+        0.56,
+        0.56,
+        0.56,
+        0.27
+      ],
+      "lb_scale": 1.0,
+      "reward_lb_font": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "reward_lb_pX": 0.5,
+      "reward_lb_pY": 0.79,
+      "reward_lb_scale": 0.8,
+      "moveY": -90
+    },
+    "congrate_lb": {
+      "scale": 1.0,
+      "money_lb_scale": 1.0,
+      "lb_2_scale": 1.0,
+      "pX": 0.5,
+      "pY": 0.73,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "text_1": "Bạn vừa trúng thưởng",
+      "font": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt",
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.53,
+      "font2": "resources/slot/thuycung/fonts/thuycung_text_game.fnt",
+      "text_2": "từ lần đập sò vừa rồi!",
+      "font3": "resources/slot/thuycung/fonts/thuycung_text_game2.fnt",
+      "lb2_pX": 0.5,
+      "lb2_pY": 0.33
+    },
+    "vinhdanh_btn": {
+      "pX": 0.3,
+      "pY": 0.67
+    },
+    "lsgd_btn": {
+      "pX": 0.194,
+      "pY": 0.67
+    },
+    "idle_game_fx": {
+      "type": 3,
+      "name_fx": "thuycung_bubble",
+      "effect_pX": 0,
+      "effect_pY": 0,
+      "effect_zOder": 2
+    },
+    "spinner_fx": {
+      "type": 0,
+      "name_fx": "thuycung_spinner_fx",
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "effect_zOder": -2
+    },
+    "jackpot_event": {
+      "jackpot1_bg_pX": 0.63,
+      "jackpot1_bg_pY": 0.47,
+      "jackpot2_bg_pX": 0.88,
+      "jackpot2_bg_pY": 0.47,
+      "bet_lb_pX": 0.5,
+      "bet_lb_pY": 0.8,
+      "bet_lb_scale": 0.65,
+      "jackpot_lb_pX": 0.5,
+      "jackpot_lb_pY": 0.4
+    },
+    "line_chooser": {
+      "btn_close_pX": 0.95,
+      "btn_close_pY": 0.83,
+      "btn_dongle_pX": 0.39,
+      "btn_dongle_pY": 0.12,
+      "btn_dongchan_pX": 0.17,
+      "btn_dongchan_pY": 0.12,
+      "btn_tatca_pX": 0.61,
+      "btn_tatca_pY": 0.12,
+      "btn_bochon_pX": 0.83,
+      "btn_bochon_pY": 0.12,
+      "btn_start_pX": 0.13,
+      "btn_start_pY": 0.73,
+      "btn_distance_X": 178,
+      "btn_distance_Y": 100,
+      "btn_per_row": 5
+    }
+  }
+}

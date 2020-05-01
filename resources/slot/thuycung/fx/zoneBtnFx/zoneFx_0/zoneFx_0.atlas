@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anchor
+  rotate: true
+  xy: 476, 48
+  size: 151, 203
+  orig: 151, 203
+  offset: 0, 0
+  index: -1
+anchor light
+  rotate: false
+  xy: 884, 77
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+coral
+  rotate: false
+  xy: 252, 56
+  size: 222, 143
+  orig: 222, 143
+  offset: 0, 0
+  index: -1
+levelFx_0004s_0000_base-light
+  rotate: false
+  xy: 681, 44
+  size: 201, 155
+  orig: 201, 155
+  offset: 0, 0
+  index: -1
+levelFx_0004s_0001_base
+  rotate: false
+  xy: 2, 2
+  size: 248, 197
+  orig: 248, 197
+  offset: 0, 0
+  index: -1

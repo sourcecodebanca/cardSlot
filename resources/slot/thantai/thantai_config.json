@@ -1,0 +1,640 @@
+{
+  "Config": {
+    "settings_btn": {
+      "pX": 0.957,
+      "pY": -1.27
+    },
+    "back_btn": {
+      "pX": 0.043,
+      "pY": -1.27
+    },
+    "settings_amthanh_btn": {
+      "pX": 0.5,
+      "pY": 0.85,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "settings_nhacnen_btn": {
+      "pX": 0.5,
+      "pY": 0.65,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "settings_bang_vinh_danh": {
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "settings_lsgd": {
+      "pX": 0.5,
+      "pY": 0.45,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "settings_lsh": {
+      "pX": 0.5,
+      "pY": 0.25,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "settings_btn_close": {
+      "pX": 0.5,
+      "pY": 0.03
+    },
+    "bangthuong_btn": {
+      "pX": 0.957,
+      "pY": -3.75,
+      "pos": 0
+    },
+    "bangthuong_bg": {
+      "pX": 0.5,
+      "pY": 0.55,
+      "pages": 4,
+      "prev_pX": 0.3,
+      "prev_pY": 0.1,
+      "next_pX": 0.7,
+      "next_pY": 0.1,
+      "pageViewSize": [
+        839,
+        501
+      ]
+    },
+    "bangthuong_btn_close": {
+      "pX": 0.5,
+      "pY": 0.1
+    },
+    "quay_btn": {
+      "pX": 0.88,
+      "pY": 0.5
+    },
+    "tu_quay_btn": {
+      "pX": 1.1,
+      "pY": 0.56
+    },
+    "sieu_toc_btn": {
+      "pX": 0.72,
+      "pY": 0.56
+    },
+    "slot_machine": {
+      "showLinesOnTop": 0,
+      "slotType": 2,
+      "lineChooserType": 2,
+      "lineFont": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "lineOffset": 20,
+      "lineStyle": 1,
+      "pX": 0.5,
+      "pY": 0.5,
+      "scale": 1.0,
+      "sizeX": 924,
+      "sizeY": 450,
+      "row": 3,
+      "col": 5,
+      "timeToShowLines": 0.7,
+      "timeToShowResults": 3.5,
+      "timeToShowPerLines": 1.5,
+      "velocity": 1500,
+      "lineNumbScale": 0.8,
+      "symbolsCount": 11,
+      "lineTexturesCount": 1,
+      "lineNumbTexturesCount": 2,
+      "zoneBtnsCount": 0,
+      "zone0pX": 0.043,
+      "zone0pY": -3.75,
+      "zone1pX": 0.4,
+      "zone1pY": 0.5,
+      "zone2pX": 0.6,
+      "zone2pY": 0.5,
+      "zone3pX": 0.8,
+      "zone3pY": 0.5,
+      "bgTopCount": 0,
+      "zoneBgCount": 0,
+      "miniGameType": 3,
+      "miniGameItemsCount": 12,
+      "miniGameItemsPosX": [
+        -75,
+        -225,
+        -375,
+        75,
+        225,
+        375,
+        -75,
+        -225,
+        -375,
+        75,
+        225,
+        375
+      ],
+      "miniGameItemsPosY": [
+        0.55,
+        0.55,
+        0.55,
+        0.55,
+        0.55,
+        0.55,
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "spinTimes": [
+        0.3,
+        0.9,
+        1.3,
+        1.8,
+        2.5
+      ],
+      "superSpeedSpinTimes": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "outdoorItemsCount": 1,
+      "outdoorItemsPosX": [
+        -250,
+        0,
+        250
+      ],
+      "outdoorItemsPosY": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "zone_bet_lb": {
+      "pX": 0.57,
+      "pY": 0.123,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "scale": 1.0
+    },
+    "zone_jackpot_lb": {
+      "pX": 0.5,
+      "pY": 0.275,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "scale": 0.8
+    },
+    "jackpot_fx": {
+      "type": 2,
+      "name_fx": "thantai_jackpot",
+      "effect_pX": 0.5,
+      "effect_pY": 0.45,
+      "finish_zOrder": 2,
+      "finish_pX": 0.5,
+      "finish_pY": 0.57,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/thantai/fonts/thantai_font_nohu.fnt",
+      "money_bg_pY": 0.16,
+      "money_lb_scale": 1.0,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.56,
+      "particle_pX": -590,
+      "particle_pY": 0,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 1.8,
+      "free_spin_lb_font": "resources/slot/thantai/fonts/thantai_roboto_bold_40_2.fnt",
+      "free_spin_lb_pX": 0.58,
+      "free_spin_lb_pY": 0.58,
+      "free_spin_lb_scale": 0.6,
+      "free_spin_count_lb_font": "resources/slot/thantai/fonts/thantai_font_thang.fnt",
+      "free_spin_count_lb_pX": -70,
+      "free_spin_count_lb_pY": 0.53,
+      "free_spin_count_lb_scale": 0.35
+    },
+    "win_fx": {
+      "type": 2,
+      "name_fx": "thantai_bigwin",
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "finish_zOrder": 1,
+      "finish_pX": 0.5,
+      "finish_pY": 0.56,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/thantai/fonts/thantai_font_thang.fnt",
+      "money_bg_pY": -0.9,
+      "money_lb_scale": 0.7,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -640,
+      "particle_pY": 50,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 1.8,
+      "free_spin_lb_font": "resources/slot/thantai/fonts/thantai_roboto_bold_40_2.fnt",
+      "free_spin_lb_pX": 0.58,
+      "free_spin_lb_pY": 0.58,
+      "free_spin_lb_scale": 0.6,
+      "free_spin_count_lb_font": "resources/slot/thantai/fonts/thantai_font_thang.fnt",
+      "free_spin_count_lb_pX": -70,
+      "free_spin_count_lb_pY": 0.53,
+      "free_spin_count_lb_scale": 0.35
+    },
+    "free_spin_fx": {
+      "type": 2,
+      "name_fx": "thantai_freespin",
+      "effect_pX": 0.5,
+      "effect_pY": 0.3,
+      "text": "Lượt Miễn Phí",
+      "finish_zOrder": 1,
+      "finish_pX": 0.5,
+      "finish_pY": 0.5,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/thantai/fonts/thantai_font_thang.fnt",
+      "money_bg_pY": -0.9,
+      "money_lb_scale": 1.2,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -640,
+      "particle_pY": 50,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 1.8,
+      "free_spin_lb_font": "resources/slot/thantai/fonts/thantai_roboto_bold_40_2.fnt",
+      "free_spin_lb_pX": 0.58,
+      "free_spin_lb_pY": 0.55,
+      "free_spin_lb_scale": 0.6,
+      "free_spin_count_lb_font": "resources/slot/thantai/fonts/thantai_font_thang.fnt",
+      "free_spin_count_lb_pX": -70,
+      "free_spin_count_lb_pY": 0.53,
+      "free_spin_count_lb_scale": 0.35
+    },
+    "line_btn": {
+      "pX": 0.12,
+      "pY": 0.5
+    },
+    "line_lb": {
+      "pX": 0.5,
+      "pY": 0.75,
+      "scale": 0.85,
+      "text": "",
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "number_of_lines_lb": {
+      "pX": 0.79,
+      "pY": 0.76,
+      "pX_2": 73,
+      "pY_2": 18,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "scale": 0.8
+    },
+    "minigame_start_btn": {
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "bet_btn": {
+      "pX": 0.28,
+      "pY": 0.5
+    },
+    "bet_lb": {
+      "pX": 0.5,
+      "pY": 0.75,
+      "scale": 0.85,
+      "text": "",
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "current_bet_lb": {
+      "pX": 0.5,
+      "pY": 0.33,
+      "pX_2": 0,
+      "pY_2": -13,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "scale": 0.8
+    },
+    "jackpot_bg": {
+      "pX": 0.18,
+      "pY": 0.5,
+      "icon_pX": 0.4,
+      "icon_pY": 0.5,
+      "lb_pX": 0.58,
+      "lb_pY": 0.56,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "scale": 1.0,
+      "type_fx": 1,
+      "particle_pX": 400,
+      "particle_pY": -5,
+      "fx_scale": 0.7
+    },
+    "this_player_bg": {
+      "pX": 0.82,
+      "pY": 0.5,
+      "style": 1,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "lb_pX": 0.52,
+      "lb_pY": 0.55,
+      "scale": 0.8
+    },
+    "thong_tin_bg": {
+      "pX": 0.5,
+      "pY": 0.53,
+      "type_fx": 1,
+      "particle_pX": 20,
+      "particle_pY": 5,
+      "fx_scale": 0.7
+    },
+    "x2_game": {
+      "x2_btn_pX": 0.58,
+      "x2_btn_pY": 0.8,
+      "dathang_bg_pX": 0.2,
+      "dathang_bg_pY": 0.25,
+      "x2_bg_pX": 0.8,
+      "x2_bg_pY": 0.25,
+      "dathang_lb_pX": 0.5,
+      "dathang_lb_pY": 0.5,
+      "dathang_font": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "x2_lb_pX": 0.5,
+      "x2_lb_pY": 0.5,
+      "x2_font": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "state_lb_pX": 0.5,
+      "state_lb_pY": 0.77,
+      "state_font": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "state_1": "Chọn 1 trong 4 tấm bài",
+      "state_2": "Chúc mừng bạn đã vượt qua thử thách",
+      "state_3": "Bạn đã thua cuộc",
+      "stop_btn1_pX": 0.5,
+      "stop_btn1_pY": 0.15,
+      "stop_btn2_pX": 0.6,
+      "stop_btn2_pY": 0.15,
+      "continue_btn_pX": 0.4,
+      "continue_btn_pY": 0.15,
+      "x2ItemsPosX": [
+        -240,
+        -80,
+        80,
+        240
+      ],
+      "x2ItemsPosY": [
+        0.53,
+        0.53,
+        0.53,
+        0.53
+      ],
+      "huong_dan_btn_pX": 0.82,
+      "huong_dan_btn_pY": 0.84,
+      "huong_dan_btn_close_pX": 0.5,
+      "huong_dan_btn_close_pY": 0.1,
+      "huong_dan_pX": 0.5,
+      "huong_dan_pY": 0.6
+    },
+    "vua_thang_lb": {
+      "pX": 0.05,
+      "pY": 0.7,
+      "scale": 0.85,
+      "anchorX": 0,
+      "anchorY": 0.5,
+      "text": "",
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "vua_thang_numb_lb": {
+      "pX": 0.5,
+      "pY": 0.6,
+      "scale": 1.0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt"
+    },
+    "tong_gold_lb": {
+      "pX": 0.05,
+      "pY": 0.3,
+      "scale": 0.85,
+      "anchorX": 0,
+      "anchorY": 0.5,
+      "text": "",
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt"
+    },
+    "tong_gold_numb_lb": {
+      "pos": 1,
+      "pX": 0.78,
+      "pY": 0.38,
+      "pX_2": 70,
+      "pY_2": -8,
+      "scale": 1.0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/thantai/fonts/thantai_font_line.fnt"
+    },
+    "free_spins_bg": {
+      "pos": 1,
+      "pX": 0.5,
+      "pY": 1.02,
+      "font": "resources/slot/thantai/fonts/thantai_font_dong_3.fnt",
+      "font2": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "text": "",
+      "free_spins_lb_pX": 0.5,
+      "free_spins_lb_pY": 0.5,
+      "current_free_spins_lb_pX": 0.86,
+      "current_free_spins_lb_pY": 0.7
+    },
+    "play_trial_bg": {
+      "pX": 0.5,
+      "pY": 0
+    },
+    "multi_rate": {
+      "pX": 0.5,
+      "pY": 0.18,
+      "pos": 2,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "lb_pX": 0.5,
+      "lb_pY": 0.62,
+      "text": "Hệ Số: "
+    },
+    "minigame_btn_close": {
+      "pX": 0.5,
+      "pY": 0.0
+    },
+    "minigame_fx": {
+      "type": 0,
+      "name_fx": "bonus_game",
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "minigame_reward": {
+      "font": "resources/slot/thantai/fonts/thantai_font_tienvang_to.fnt",
+      "scale": 0.8,
+      "pX": 0.5,
+      "pY": 0.79,
+      "moveY": 20
+    },
+    "minigame_item_idle_fx": {
+      "name_fx": "fx/light",
+      "pX": -320,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "minigame_item_open_fx": {
+      "name_fx": "fx/open",
+      "pX": -300,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "minigame_text_1": {
+      "pX": 0.5,
+      "pY": 0.84,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "text": "",
+      "bg_pX": 0.5,
+      "bg_pY": 0.4
+    },
+    "minigame_text_2": {
+      "pX": 0.5,
+      "pY": 0.71,
+      "font": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "text": "Chọn biểu tượng để nhận giải thưởng ẩn sau\n(Kết thúc khi gặp phải hòn đá)",
+      "bg_pX": 0.5,
+      "bg_pY": 0.4
+    },
+    "minigame_countdown_1": {
+      "pos": 1,
+      "pX": 0.5,
+      "pY": 0.7,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "text": "Tự động chơi sau: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.3
+    },
+    "minigame_countdown_2": {
+      "pos": 2,
+      "pX": 0.5,
+      "pY": 0.08,
+      "font": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "text": "Tự động sau: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.52
+    },
+    "outdoor_stg": {
+      "pY": -150
+    },
+    "outdoor_item_idle_fx": {
+      "name_fx": "fx/light",
+      "pX": -320,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "outdoor_item_open_fx": {
+      "name_fx": "fx/open",
+      "pX": -300,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "x2_item_idle_fx": {
+      "name_fx": "fx/light",
+      "pX": -320,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "x2_item_open_fx": {
+      "name_fx": "fx/light",
+      "pX": -300,
+      "pY": -420,
+      "type": 1,
+      "z_order": -1
+    },
+    "congrate_lb": {
+      "scale": 1.0,
+      "money_lb_scale": 1.0,
+      "lb_2_scale": 1.0,
+      "pX": 0.5,
+      "pY": 0.75,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "text_1": "Chúc mừng bạn đã trúng",
+      "font": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.56,
+      "font2": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "text_2": "từ bonus game Tìm Báu Vật",
+      "font3": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "lb2_pX": 0.5,
+      "lb2_pY": 0.35
+    },
+    "congrate_x2_lb": {
+      "scale": 1.0,
+      "money_lb_scale": 1.0,
+      "lb_2_scale": 1.0,
+      "pX": 0.5,
+      "pY": 0.75,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "text_1": "Chúc mừng bạn đã thắng",
+      "font": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.56,
+      "font2": "resources/slot/thantai/fonts/thantai_text_game.fnt",
+      "text_2": "từ minigame X2",
+      "font3": "resources/slot/thantai/fonts/thantai_font_line.fnt",
+      "lb2_pX": 0.5,
+      "lb2_pY": 0.35
+    },
+    "vinhdanh_btn": {
+      "pX": 1.5,
+      "pY": 0.5
+    },
+    "lsgd_btn": {
+      "pX": 1.5,
+      "pY": 0.5
+    },
+    "idle_game_fx": {
+      "type": 0,
+      "name_fx": "fish_bb",
+      "effect_pX": 0.85,
+      "effect_pY": 0.3,
+      "effect_zOder": 2
+    },
+    "jackpot_event": {
+      "jackpot1_bg_pX": 0.6,
+      "jackpot1_bg_pY": 0.47,
+      "jackpot2_bg_pX": 0.85,
+      "jackpot2_bg_pY": 0.47,
+      "bet_lb_pX": 0.5,
+      "bet_lb_pY": 0.8,
+      "bet_lb_scale": 0.65,
+      "jackpot_lb_pX": 0.5,
+      "jackpot_lb_pY": 0.4
+    },
+    "line_chooser": {
+      "btn_close_pX": 0.985,
+      "btn_close_pY": 0.97,
+      "btn_dongle_pX": -0.085,
+      "btn_dongle_pY": 0.64,
+      "btn_dongchan_pX": -0.085,
+      "btn_dongchan_pY": 0.88,
+      "btn_tatca_pX": -0.085,
+      "btn_tatca_pY": 0.36,
+      "btn_bochon_pX": -0.085,
+      "btn_bochon_pY": 0.12,
+      "btn_start_pX": 0.11,
+      "btn_start_pY": 0.82,
+      "btn_distance_X": 148,
+      "btn_distance_Y": 85,
+      "btn_per_row": 5
+    }
+  }
+}

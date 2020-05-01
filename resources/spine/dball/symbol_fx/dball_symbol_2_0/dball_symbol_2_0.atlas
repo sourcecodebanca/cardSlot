@@ -1,0 +1,152 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/1
+  rotate: false
+  xy: 107, 73
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+FX/2
+  rotate: false
+  xy: 107, 14
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+FX/3
+  rotate: false
+  xy: 120, 188
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+FX/4
+  rotate: false
+  xy: 188, 190
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+FX/5
+  rotate: false
+  xy: 188, 138
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+FX/6
+  rotate: false
+  xy: 120, 134
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+FX/7
+  rotate: true
+  xy: 164, 74
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+FX/8
+  rotate: false
+  xy: 165, 14
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+Goku
+  rotate: false
+  xy: 2, 144
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 38
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00000
+  rotate: false
+  xy: 223, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00002
+  rotate: false
+  xy: 2, 6
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00003
+  rotate: false
+  xy: 41, 7
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00004
+  rotate: true
+  xy: 223, 37
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00005
+  rotate: true
+  xy: 220, 101
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00008
+  rotate: true
+  xy: 220, 74
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00009
+  rotate: false
+  xy: 80, 10
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx2/Energy 087 _00001
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00006
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx2/Energy 087 _00007
+  rotate: false
+  xy: 70, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

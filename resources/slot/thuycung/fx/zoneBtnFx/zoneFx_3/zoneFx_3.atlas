@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1344,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 290, 28
+  size: 248, 197
+  orig: 248, 197
+  offset: 0, 0
+  index: -1
+base fx/6
+  rotate: true
+  xy: 1024, 57
+  size: 168, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1
+base light
+  rotate: true
+  xy: 713, 24
+  size: 201, 155
+  orig: 201, 155
+  offset: 0, 0
+  index: -1
+coral 1
+  rotate: true
+  xy: 540, 18
+  size: 207, 171
+  orig: 207, 171
+  offset: 0, 0
+  index: -1
+coral 2
+  rotate: false
+  xy: 870, 29
+  size: 152, 196
+  orig: 152, 196
+  offset: 0, 0
+  index: -1
+shark copy
+  rotate: false
+  xy: 1178, 93
+  size: 164, 132
+  orig: 164, 132
+  offset: 0, 0
+  index: -1
+shark/eye blink
+  rotate: false
+  xy: 1024, 6
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+shark/eye shut
+  rotate: false
+  xy: 1074, 6
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+shark/fin
+  rotate: false
+  xy: 1178, 10
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+shark/jaw
+  rotate: false
+  xy: 1244, 28
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+shark/shark
+  rotate: false
+  xy: 2, 2
+  size: 286, 223
+  orig: 286, 223
+  offset: 0, 0
+  index: -1

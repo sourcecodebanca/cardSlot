@@ -1,0 +1,48 @@
+
+thantai_bigwin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin full
+  rotate: false
+  xy: 622, 115
+  size: 236, 180
+  orig: 236, 180
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 110
+  size: 350, 360
+  orig: 350, 360
+  offset: 0, 0
+  index: -1
+scroll 1
+  rotate: false
+  xy: 354, 152
+  size: 266, 36
+  orig: 266, 36
+  offset: 0, 0
+  index: -1
+scroll 2
+  rotate: false
+  xy: 2, 2
+  size: 266, 106
+  orig: 266, 106
+  offset: 0, 0
+  index: -1
+scroll 3
+  rotate: false
+  xy: 622, 297
+  size: 266, 173
+  orig: 266, 173
+  offset: 0, 0
+  index: -1
+scroll 4
+  rotate: false
+  xy: 354, 190
+  size: 266, 280
+  orig: 266, 280
+  offset: 0, 0
+  index: -1

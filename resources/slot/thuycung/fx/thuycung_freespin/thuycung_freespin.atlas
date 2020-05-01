@@ -1,0 +1,62 @@
+
+thuycung_freespin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb 1
+  rotate: true
+  xy: 1551, 476
+  size: 429, 374
+  orig: 429, 374
+  offset: 0, 0
+  index: -1
+fb 2
+  rotate: false
+  xy: 1078, 495
+  size: 471, 410
+  orig: 471, 410
+  offset: 0, 0
+  index: -1
+fb3
+  rotate: false
+  xy: 552, 204
+  size: 511, 445
+  orig: 511, 445
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 2, 651
+  size: 1074, 254
+  orig: 1074, 254
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 552, 2
+  size: 200, 209
+  orig: 200, 209
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 907
+  size: 1899, 990
+  orig: 1899, 990
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 1065, 166
+  size: 375, 327
+  orig: 375, 327
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 2, 3
+  size: 548, 646
+  orig: 548, 646
+  offset: 0, 0
+  index: -1

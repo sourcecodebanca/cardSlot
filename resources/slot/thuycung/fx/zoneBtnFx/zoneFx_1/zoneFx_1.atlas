@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 248, 197
+  orig: 248, 197
+  offset: 0, 0
+  index: -1
+coral 1
+  rotate: false
+  xy: 795, 95
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1
+eye shut 1
+  rotate: true
+  xy: 369, 55
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+eye shut 2
+  rotate: true
+  xy: 369, 93
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+light base
+  rotate: true
+  xy: 492, 49
+  size: 201, 155
+  orig: 201, 155
+  offset: 0, 0
+  index: -1
+lobster
+  rotate: false
+  xy: 649, 58
+  size: 144, 192
+  orig: 144, 192
+  offset: 0, 0
+  index: -1
+lobster base
+  rotate: false
+  xy: 201, 16
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+ls1
+  rotate: false
+  xy: 306, 49
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+ls2
+  rotate: true
+  xy: 306, 5
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+rs1
+  rotate: true
+  xy: 368, 3
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+rs2
+  rotate: false
+  xy: 402, 97
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+seaweed
+  rotate: true
+  xy: 201, 132
+  size: 118, 289
+  orig: 118, 289
+  offset: 0, 0
+  index: -1

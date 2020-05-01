@@ -1,0 +1,208 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00000
+  rotate: false
+  xy: 451, 14
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00001
+  rotate: true
+  xy: 159, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00003
+  rotate: false
+  xy: 454, 90
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00004
+  rotate: true
+  xy: 418, 82
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00005
+  rotate: false
+  xy: 454, 55
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00009
+  rotate: true
+  xy: 191, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FX/energy 2/Elements - Energy 059 Hit Explosion Radial noCT noRSZ_00000
+  rotate: false
+  xy: 2, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+FX/energy 2/Elements - Energy 059 Hit Explosion Radial noCT noRSZ_00001
+  rotate: true
+  xy: 413, 29
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+FX/energy 2/Elements - Energy 059 Hit Explosion Radial noCT noRSZ_00002
+  rotate: true
+  xy: 317, 70
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+FX/energy 2/Elements - Energy 059 Hit Explosion Radial noCT noRSZ_00003
+  rotate: true
+  xy: 276, 2
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+FX2 /FX_00000
+  rotate: false
+  xy: 25, 4
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+FX2 /FX_00001
+  rotate: false
+  xy: 385, 4
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+FX2 /FX_00002
+  rotate: true
+  xy: 385, 26
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+FX2 /FX_00006
+  rotate: false
+  xy: 334, 18
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+FX2 /FX_00008
+  rotate: false
+  xy: 223, 2
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+FX2 /FX_00009
+  rotate: true
+  xy: 370, 77
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+cell/LHand
+  rotate: true
+  xy: 195, 50
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+cell/RHand
+  rotate: false
+  xy: 107, 2
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+cell/body
+  rotate: false
+  xy: 107, 36
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+cell/head
+  rotate: false
+  xy: 272, 62
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+frame/Layer 34
+  rotate: false
+  xy: 2, 22
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00002
+  rotate: true
+  xy: 224, 9
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00006
+  rotate: false
+  xy: 119, 5
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00007
+  rotate: false
+  xy: 41, 3
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00008
+  rotate: false
+  xy: 80, 3
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00010
+  rotate: false
+  xy: 156, 10
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00011
+  rotate: false
+  xy: 2, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+FX/Elements - Energy 087 Charge Radial Loop MIX noCT noRSZ 2/energy_00012
+  rotate: false
+  xy: 190, 10
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

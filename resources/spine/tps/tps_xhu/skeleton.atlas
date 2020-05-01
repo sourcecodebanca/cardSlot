@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KC_do
+  rotate: false
+  xy: 461, 146
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+KC_xanh
+  rotate: false
+  xy: 2, 2
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+Shape 3 copy 3
+  rotate: false
+  xy: 2, 78
+  size: 287, 417
+  orig: 287, 417
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 73, 26
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+xhu/x10
+  rotate: false
+  xy: 291, 400
+  size: 182, 95
+  orig: 182, 95
+  offset: 0, 0
+  index: -1
+xhu/x2
+  rotate: false
+  xy: 291, 207
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x3
+  rotate: false
+  xy: 291, 303
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+xhu/x4
+  rotate: false
+  xy: 461, 304
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x5
+  rotate: false
+  xy: 475, 400
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+xhu/x6
+  rotate: false
+  xy: 645, 401
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x7
+  rotate: false
+  xy: 291, 111
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x8
+  rotate: false
+  xy: 461, 208
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x9
+  rotate: false
+  xy: 815, 401
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+đèn/Layer 835
+  rotate: true
+  xy: 291, 83
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+đèn/Layer 835 copy
+  rotate: false
+  xy: 985, 440
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+đèn/Layer 836
+  rotate: true
+  xy: 461, 120
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+đèn/Layer 836 copy
+  rotate: false
+  xy: 523, 154
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1

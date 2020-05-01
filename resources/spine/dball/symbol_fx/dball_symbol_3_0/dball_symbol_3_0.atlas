@@ -1,0 +1,250 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Char/Lhand
+  rotate: false
+  xy: 417, 214
+  size: 79, 39
+  orig: 79, 39
+  offset: 0, 0
+  index: -1
+Char/body
+  rotate: false
+  xy: 2, 10
+  size: 102, 112
+  orig: 148, 117
+  offset: 26, 0
+  index: -1
+Char/frame
+  rotate: false
+  xy: 106, 18
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+Char/head
+  rotate: false
+  xy: 310, 24
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00000
+  rotate: true
+  xy: 108, 127
+  size: 126, 102
+  orig: 126, 102
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00003
+  rotate: true
+  xy: 2, 124
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00008
+  rotate: true
+  xy: 2, 124
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00005
+  rotate: true
+  xy: 212, 127
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00010
+  rotate: true
+  xy: 212, 127
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00009
+  rotate: true
+  xy: 211, 3
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00004
+  rotate: true
+  xy: 211, 3
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00011
+  rotate: true
+  xy: 315, 127
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00001
+  rotate: true
+  xy: 315, 127
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00006
+  rotate: true
+  xy: 315, 127
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00000
+  rotate: false
+  xy: 400, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00002
+  rotate: false
+  xy: 469, 12
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00005
+  rotate: false
+  xy: 432, 3
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00008
+  rotate: false
+  xy: 485, 186
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00009
+  rotate: false
+  xy: 485, 158
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+fx2/3
+  rotate: false
+  xy: 417, 158
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+fx2/4
+  rotate: false
+  xy: 417, 104
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+fx2/6
+  rotate: true
+  xy: 400, 37
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+fx2/8
+  rotate: false
+  xy: 454, 44
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Energy 127/Energy 127_00007
+  rotate: false
+  xy: 2, 28
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1
+Energy 127/Energy 127_00002
+  rotate: false
+  xy: 2, 28
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00001
+  rotate: false
+  xy: 381, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00003
+  rotate: false
+  xy: 305, 97
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00004
+  rotate: false
+  xy: 344, 98
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00006
+  rotate: false
+  xy: 415, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00007
+  rotate: false
+  xy: 449, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx2/1
+  rotate: false
+  xy: 130, 67
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+fx2/2
+  rotate: false
+  xy: 187, 69
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+fx2/5
+  rotate: true
+  xy: 130, 2
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+fx2/7
+  rotate: false
+  xy: 245, 72
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1

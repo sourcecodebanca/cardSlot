@@ -1,0 +1,118 @@
+
+thuycung_symbol_1_6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame/bg
+  rotate: false
+  xy: 857, 352
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+frame/frame
+  rotate: false
+  xy: 2, 54
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 3
+  rotate: false
+  xy: 302, 318
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 4
+  rotate: false
+  xy: 487, 318
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 5
+  rotate: false
+  xy: 672, 318
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 6
+  rotate: false
+  xy: 187, 54
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 7
+  rotate: false
+  xy: 372, 140
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 8
+  rotate: false
+  xy: 742, 141
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+frame/frame final
+  rotate: false
+  xy: 557, 140
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+fx/1
+  rotate: true
+  xy: 676, 27
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+fx/2
+  rotate: false
+  xy: 372, 33
+  size: 175, 105
+  orig: 175, 105
+  offset: 0, 0
+  index: -1
+fx/3
+  rotate: false
+  xy: 2, 232
+  size: 260, 119
+  orig: 260, 119
+  offset: 0, 0
+  index: -1
+fx/4
+  rotate: false
+  xy: 2, 353
+  size: 298, 141
+  orig: 298, 141
+  offset: 0, 0
+  index: -1
+fx/light
+  rotate: false
+  xy: 751, 37
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+main/Orb copy
+  rotate: true
+  xy: 549, 17
+  size: 121, 125
+  orig: 121, 125
+  offset: 0, 0
+  index: -1
+main/wild copy
+  rotate: false
+  xy: 2, 2
+  size: 133, 50
+  orig: 133, 50
+  offset: 0, 0
+  index: -1

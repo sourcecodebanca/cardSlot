@@ -1,0 +1,159 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Char/Lhand 2
+  rotate: true
+  xy: 105, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Char/newpng
+  rotate: false
+  xy: 2, 145
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+Energy 127/1
+  rotate: false
+  xy: 107, 84
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Energy 127/2
+  rotate: false
+  xy: 107, 25
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Energy 127/3
+  rotate: false
+  xy: 116, 200
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+Energy 127/4
+  rotate: false
+  xy: 116, 146
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+Energy 127/5
+  rotate: false
+  xy: 184, 150
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+Energy 127/6
+  rotate: false
+  xy: 184, 202
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Energy 127/7
+  rotate: true
+  xy: 164, 86
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Energy 127/8
+  rotate: false
+  xy: 164, 26
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+frame/frame
+  rotate: false
+  xy: 2, 39
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00000
+  rotate: true
+  xy: 221, 79
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00001
+  rotate: false
+  xy: 221, 45
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00002
+  rotate: false
+  xy: 66, 7
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00003
+  rotate: true
+  xy: 220, 111
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00004
+  rotate: true
+  xy: 36, 2
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00005
+  rotate: true
+  xy: 2, 2
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00006
+  rotate: false
+  xy: 221, 11
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/Energy 087 _00007
+  rotate: false
+  xy: 2, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00008
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+fx/Energy 087 _00009
+  rotate: true
+  xy: 36, 37
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1

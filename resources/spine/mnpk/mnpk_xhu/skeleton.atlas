@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 3 copy 3
+  rotate: false
+  xy: 2, 86
+  size: 287, 417
+  orig: 287, 417
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 155, 34
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 2, 41
+  size: 151, 43
+  orig: 151, 43
+  offset: 0, 0
+  index: -1
+mayquay/may1
+  rotate: false
+  xy: 291, 388
+  size: 196, 115
+  orig: 196, 115
+  offset: 0, 0
+  index: -1
+mayquay/may2
+  rotate: false
+  xy: 291, 271
+  size: 189, 115
+  orig: 189, 115
+  offset: 0, 0
+  index: -1
+mayquay/may3
+  rotate: false
+  xy: 489, 388
+  size: 189, 115
+  orig: 189, 115
+  offset: 0, 0
+  index: -1
+mayquay/may4
+  rotate: false
+  xy: 291, 154
+  size: 189, 115
+  orig: 189, 115
+  offset: 0, 0
+  index: -1
+xhu/x10
+  rotate: false
+  xy: 482, 291
+  size: 182, 95
+  orig: 182, 95
+  offset: 0, 0
+  index: -1
+xhu/x2
+  rotate: false
+  xy: 850, 409
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x3
+  rotate: false
+  xy: 680, 408
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+xhu/x4
+  rotate: false
+  xy: 291, 58
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x5
+  rotate: false
+  xy: 482, 194
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+xhu/x6
+  rotate: false
+  xy: 482, 98
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x7
+  rotate: false
+  xy: 680, 312
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x8
+  rotate: false
+  xy: 850, 313
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+xhu/x9
+  rotate: false
+  xy: 461, 2
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+đèn/Layer 835
+  rotate: true
+  xy: 214, 58
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+đèn/Layer 835 copy
+  rotate: true
+  xy: 2, 13
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+đèn/Layer 836
+  rotate: true
+  xy: 59, 15
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+đèn/Layer 836 copy
+  rotate: true
+  xy: 214, 32
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1

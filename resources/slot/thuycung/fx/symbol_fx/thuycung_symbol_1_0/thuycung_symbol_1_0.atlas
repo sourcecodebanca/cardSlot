@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus copy 4
+  rotate: false
+  xy: 253, 88
+  size: 172, 52
+  orig: 172, 52
+  offset: 0, 0
+  index: -1
+frame/bg
+  rotate: false
+  xy: 2, 2
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+frame/frame
+  rotate: false
+  xy: 2, 320
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 3
+  rotate: false
+  xy: 2, 142
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 4
+  rotate: false
+  xy: 187, 320
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 5
+  rotate: false
+  xy: 187, 142
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 6
+  rotate: false
+  xy: 372, 320
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 7
+  rotate: false
+  xy: 372, 142
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame copy 8
+  rotate: false
+  xy: 557, 320
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+frame/frame final
+  rotate: false
+  xy: 557, 142
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+light 100
+  rotate: false
+  xy: 879, 412
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+trident/Orb copy
+  rotate: false
+  xy: 742, 366
+  size: 135, 130
+  orig: 135, 130
+  offset: 0, 0
+  index: -1
+trident/trident
+  rotate: false
+  xy: 143, 6
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+trident/trident copy 5
+  rotate: false
+  xy: 742, 230
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1

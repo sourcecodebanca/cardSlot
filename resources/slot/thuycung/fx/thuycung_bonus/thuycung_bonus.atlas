@@ -1,0 +1,54 @@
+
+thuycung_bonus.png
+size: 968,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS GAME
+  rotate: false
+  xy: 2, 151
+  size: 848, 340
+  orig: 848, 340
+  offset: 0, 0
+  index: -1
+fl
+  rotate: false
+  xy: 2, 2
+  size: 192, 147
+  orig: 192, 147
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 852, 381
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 852, 381
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 852, 381
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+
+thuycung_bonus2.png
+size: 648,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbg
+  rotate: false
+  xy: 2, 2
+  size: 642, 334
+  orig: 642, 334
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball copy
+  rotate: false
+  xy: 743, 346
+  size: 151, 164
+  orig: 151, 164
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 131
+  size: 323, 379
+  orig: 323, 379
+  offset: 0, 0
+  index: -1
+Frame upper
+  rotate: false
+  xy: 327, 80
+  size: 446, 145
+  orig: 446, 145
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: true
+  xy: 327, 227
+  size: 283, 414
+  orig: 283, 414
+  offset: 0, 0
+  index: -1
+xhu/x10
+  rotate: false
+  xy: 2, 2
+  size: 221, 76
+  orig: 221, 76
+  offset: 0, 0
+  index: -1
+xhu/x2 copy
+  rotate: false
+  xy: 225, 2
+  size: 194, 76
+  orig: 194, 76
+  offset: 0, 0
+  index: -1
+xhu/x3 copy
+  rotate: true
+  xy: 896, 322
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1
+xhu/x4 copy
+  rotate: false
+  xy: 421, 2
+  size: 194, 76
+  orig: 194, 76
+  offset: 0, 0
+  index: -1
+xhu/x5 copy
+  rotate: true
+  xy: 775, 156
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1
+xhu/x6 copy
+  rotate: true
+  xy: 853, 132
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1
+xhu/x7 copy
+  rotate: true
+  xy: 931, 132
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1
+xhu/x8 copy
+  rotate: false
+  xy: 807, 54
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1
+xhu/x9 copy
+  rotate: false
+  xy: 617, 2
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1

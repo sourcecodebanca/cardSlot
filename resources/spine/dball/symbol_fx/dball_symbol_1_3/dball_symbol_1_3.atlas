@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX2 /FX_00000
+  rotate: false
+  xy: 489, 90
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+FX2 /FX_00001
+  rotate: false
+  xy: 438, 58
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+FX2 /FX_00002
+  rotate: false
+  xy: 438, 80
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+FX2 /FX_00006
+  rotate: false
+  xy: 283, 56
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+FX2 /FX_00008
+  rotate: false
+  xy: 334, 60
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+FX2 /FX_00009
+  rotate: false
+  xy: 387, 60
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+New Folder With Items/body
+  rotate: false
+  xy: 107, 38
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+New Folder With Items/frame
+  rotate: false
+  xy: 2, 2
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+New Folder With Items/hands
+  rotate: false
+  xy: 107, 9
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+New Folder With Items/head
+  rotate: true
+  xy: 212, 43
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1

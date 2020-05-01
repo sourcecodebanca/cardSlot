@@ -1,0 +1,173 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z/0
+  rotate: false
+  xy: 271, 168
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/1
+  rotate: false
+  xy: 371, 168
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/10
+  rotate: false
+  xy: 302, 2
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/11
+  rotate: false
+  xy: 402, 2
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/2
+  rotate: false
+  xy: 2, 107
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/3
+  rotate: false
+  xy: 102, 90
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/4
+  rotate: false
+  xy: 202, 85
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/5
+  rotate: false
+  xy: 302, 85
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/6
+  rotate: false
+  xy: 402, 85
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/7
+  rotate: false
+  xy: 2, 24
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/8
+  rotate: false
+  xy: 102, 7
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/9
+  rotate: false
+  xy: 202, 2
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+fx/FX_00000
+  rotate: true
+  xy: 53, 190
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+fx/FX_00001
+  rotate: false
+  xy: 2, 201
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+fx/FX_00006
+  rotate: false
+  xy: 193, 173
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+fx/FX_00007
+  rotate: false
+  xy: 117, 175
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z/12
+  rotate: false
+  xy: 314, 133
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/13
+  rotate: true
+  xy: 414, 116
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Z/14
+  rotate: false
+  xy: 314, 50
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+fx/FX_00002
+  rotate: false
+  xy: 2, 2
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+fx/FX_00003
+  rotate: false
+  xy: 111, 110
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+fx/FX_00004
+  rotate: false
+  xy: 2, 109
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+fx/FX_00005
+  rotate: false
+  xy: 219, 120
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1

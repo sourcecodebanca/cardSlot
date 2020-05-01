@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTN/frame
+  rotate: false
+  xy: 429, 205
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+BTN/x10
+  rotate: true
+  xy: 429, 272
+  size: 97, 43
+  orig: 97, 43
+  offset: 0, 0
+  index: -1
+BTN/x10b
+  rotate: true
+  xy: 436, 390
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+FX1/FX1_00000
+  rotate: true
+  xy: 2, 2
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+FX1/FX1_00001
+  rotate: false
+  xy: 157, 8
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+FX1/FX1_00002
+  rotate: false
+  xy: 84, 4
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+FX1/FX1_00003
+  rotate: false
+  xy: 232, 15
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+FX1/FX1_00004
+  rotate: true
+  xy: 294, 163
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+FX1/FX1_00005
+  rotate: false
+  xy: 292, 98
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+FX1/FX1_00006
+  rotate: false
+  xy: 366, 173
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+FX1/FX1_00007
+  rotate: true
+  xy: 303, 39
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+FX1/FX1_00008
+  rotate: false
+  xy: 338, 6
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+FX1/FX1_00009
+  rotate: false
+  xy: 303, 5
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+FX2/FX2_00001
+  rotate: false
+  xy: 427, 149
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+FX2/FX2_00002
+  rotate: false
+  xy: 297, 371
+  size: 137, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+FX2/FX2_00003
+  rotate: false
+  xy: 150, 227
+  size: 142, 140
+  orig: 142, 140
+  offset: 0, 0
+  index: -1
+FX2/FX2_00004
+  rotate: true
+  xy: 294, 232
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+FX2/FX2_00005
+  rotate: false
+  xy: 150, 90
+  size: 140, 135
+  orig: 140, 135
+  offset: 0, 0
+  index: -1
+FX2/FX2_00006
+  rotate: false
+  xy: 150, 369
+  size: 145, 141
+  orig: 145, 141
+  offset: 0, 0
+  index: -1
+FX2/FX2_00007
+  rotate: false
+  xy: 2, 223
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+FX2/FX2_00008
+  rotate: false
+  xy: 2, 367
+  size: 146, 143
+  orig: 146, 143
+  offset: 0, 0
+  index: -1
+FX2/FX2_00009
+  rotate: false
+  xy: 2, 81
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTN/frame
+  rotate: false
+  xy: 2, 58
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 1
+  rotate: false
+  xy: 2, 17
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 10
+  rotate: false
+  xy: 270, 43
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 11
+  rotate: false
+  xy: 337, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 12
+  rotate: false
+  xy: 337, 43
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 13
+  rotate: false
+  xy: 404, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 14
+  rotate: true
+  xy: 471, 58
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 15
+  rotate: false
+  xy: 404, 43
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 16
+  rotate: false
+  xy: 69, 2
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 2
+  rotate: false
+  xy: 69, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 3
+  rotate: false
+  xy: 69, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 4
+  rotate: false
+  xy: 69, 43
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 5
+  rotate: false
+  xy: 136, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 6
+  rotate: false
+  xy: 136, 43
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 7
+  rotate: false
+  xy: 203, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 8
+  rotate: false
+  xy: 203, 43
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+PNS_sequences/Frame 9
+  rotate: false
+  xy: 270, 84
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1

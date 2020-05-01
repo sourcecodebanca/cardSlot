@@ -1,0 +1,152 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTN/frame
+  rotate: false
+  xy: 148, 59
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+BTN/x5
+  rotate: false
+  xy: 284, 81
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+FX2/FX2_00001
+  rotate: true
+  xy: 250, 2
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+FX2/FX2_00002
+  rotate: false
+  xy: 215, 66
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+FX2/FX2_00003
+  rotate: true
+  xy: 78, 46
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+FX2/FX2_00004
+  rotate: false
+  xy: 2, 41
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+FX2/FX2_00005
+  rotate: false
+  xy: 164, 9
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+FX2/FX2_00006
+  rotate: false
+  xy: 78, 2
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+FX2/FX2_00007
+  rotate: false
+  xy: 2, 3
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 1
+  rotate: true
+  xy: 307, 6
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 2
+  rotate: true
+  xy: 352, 6
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 3
+  rotate: false
+  xy: 359, 81
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 4
+  rotate: true
+  xy: 397, 6
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 5
+  rotate: false
+  xy: 434, 81
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 6
+  rotate: true
+  xy: 442, 6
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG_Sequences/Frame 10
+  rotate: false
+  xy: 227, 2
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 11
+  rotate: false
+  xy: 302, 2
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 7
+  rotate: false
+  xy: 2, 2
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 8
+  rotate: false
+  xy: 77, 2
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+PNG_Sequences/Frame 9
+  rotate: false
+  xy: 152, 2
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1

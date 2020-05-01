@@ -1,0 +1,187 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Char/Rhand
+  rotate: false
+  xy: 483, 17
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00000
+  rotate: true
+  xy: 357, 59
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00001
+  rotate: true
+  xy: 219, 58
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00005
+  rotate: true
+  xy: 219, 58
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00009
+  rotate: true
+  xy: 219, 58
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00002
+  rotate: true
+  xy: 288, 58
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00006
+  rotate: true
+  xy: 288, 58
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00010
+  rotate: true
+  xy: 288, 58
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00003
+  rotate: false
+  xy: 425, 59
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00007
+  rotate: false
+  xy: 425, 59
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00011
+  rotate: false
+  xy: 425, 59
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+electric/1
+  rotate: true
+  xy: 422, 2
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+electric/3
+  rotate: false
+  xy: 219, 2
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+electric/4
+  rotate: false
+  xy: 287, 4
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+electric/6
+  rotate: false
+  xy: 355, 4
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+electric/8
+  rotate: false
+  xy: 2, 11
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+frame/frame
+  rotate: false
+  xy: 114, 22
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Char/Lhand
+  rotate: true
+  xy: 192, 28
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Char/body
+  rotate: true
+  xy: 132, 29
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+Char/head
+  rotate: false
+  xy: 71, 61
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00004
+  rotate: false
+  xy: 2, 60
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+FX 1/Energy 128_00008
+  rotate: false
+  xy: 2, 60
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+electric/2
+  rotate: true
+  xy: 2, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+electric/5
+  rotate: false
+  xy: 132, 76
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+electric/7
+  rotate: true
+  xy: 197, 68
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
